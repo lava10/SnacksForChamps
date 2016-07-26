@@ -25,19 +25,19 @@ namespace MenuApplication
         string nachos = "YO! Nachos";
     }
 
-class Drinks
-{
-    string regularSoda = "Coca Cola";
-    string otherSoda = "Sprite";
-    string dietSoda = "Diet Coca Cola";
-    string otherDrinks = "Water";
-    string vodka = "Vodka Cranberry";
-    string vodkaMix = "Bloody Mary";
-    string whiskey = "Old Fashioned";
-    string gin = "Martini";
-    string beer = "Mac & Jacks";
-    string wine = "Washington State Merlot";
-}
+    class Drinks
+    {
+        string regularSoda = "Coca Cola";
+        string otherSoda = "Sprite";
+        string dietSoda = "Diet Coca Cola";
+        string otherDrinks = "Water";
+        string vodka = "Vodka Cranberry";
+        string vodkaMix = "Bloody Mary";
+        string whiskey = "Old Fashioned";
+        string gin = "Martini";
+        string beer = "Mac & Jacks";
+        string wine = "Washington State Merlot";
+    }
 
 class Menu
 {
