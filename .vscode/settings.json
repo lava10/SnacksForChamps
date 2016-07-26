@@ -1,0 +1,4 @@
+// Linux
+"terminal.integrated.shellArgs.linux": ["-l"]
+// OS X
+"terminal.integrated.shellArgs.osx": ["-l"]
